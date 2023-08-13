@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yBiBr0yr5NqQxDFN61japPt9GJ85HjTJew0iKE3PVBc=",
+  "Source": "Employee_Web_API",
+  "BasePath": "_content/Employee_Web_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
